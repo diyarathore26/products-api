@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Silkening Shower Wash Mogra",
+      "subtitle": "skin, purified, fresh, and gleaming.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "price": 475,
+      "compare_at_price": 1175,
+      "ratings": 4.6
+    },
+    {
+      "id": 2,
+      "title": "Silkening Shower Wash Mogra",
+      "subtitle": "refreshes and lightly scents the skin",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22036_silkening_shower_wash_mogra_200ml_1.png",
+      "price": 1650,
+      "compare_at_price": 2050,
+      "ratings": 4.3
+    }
+  ]
+}
