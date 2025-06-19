@@ -1,22 +1,184 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "title": "Silkening Shower Wash Mogra",
-      "subtitle": "skin, purified, fresh, and gleaming.",
-      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
-      "price": 475,
-      "compare_at_price": 1175,
-      "ratings": 4.6
-    },
-    {
-      "id": 2,
-      "title": "Silkening Shower Wash Mogra",
-      "subtitle": "refreshes and lightly scents the skin",
-      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22036_silkening_shower_wash_mogra_200ml_1.png",
-      "price": 1650,
-      "compare_at_price": 2050,
-      "ratings": 4.3
-    }
-  ]
+    "products": [
+        {
+            "id": 1,
+            "title": "Silkening Shower Wash Mogra",
+            "subtitle": "skin, purified, fresh, and gleaming.",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+            "price": ,
+            "compare_at_price": ,
+            "ratings": 4.6
+        },
+        {
+            "id": 2,
+            "title": "Body Mist Honey & Vanilla",
+            "subtitle": "A fresh flower infused body mist ",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+            "price": 1350  ,
+            "compare_at_price": 1950,
+            "ratings": 4.3
+        },
+        {
+            "id": 3,
+            "title": "Ultra-Rich Body Milk Mogra",
+            "subtitle": "A fragrant body milk that leaves the skin silken and lightly scented.",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+            "price": 650,
+            "compare_at_price": 900,
+            "ratings": 4.7
+        },
+        {
+            "id": 4,
+            "title": "Radiance Renewal Body Cream Mogra",
+            "subtitle": "A fragrant body cream infused with the delicate fragrance of Mogra. ",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+            "price": 1875,
+            "compare_at_price": 2050,
+            "ratings": 4.4
+        },
+        {
+            "id": 5,
+            "title": "After Bath Oil Mogra",
+            "subtitle": "hydrate and seal in moisture ",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+            "price": 825,
+            "compare_at_price": 1235,
+            "ratings": 4.5
+        },
+        {
+            "id": 6,
+            "title": "Sheer Sunscreen Body Spray SPF 50|PA++++",
+            "subtitle": "1st ever Ayurvedic Sun Spray that gives broad-spectrum protection against the sun",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22052_sheer_sunscreen_body_spray_spf50_pa__130ml_1_1.png",
+            "price": 2250,
+            "compare_at_price": 2555,
+            "ratings": 4.2
+        },
+        {
+            "id": 7,
+            "title": "Cooling Body Mist Mogra",
+            "subtitle": "Infused with the refreshing fragrance of Mogra flowers",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+            "price": 1550,
+            "compare_at_price": 1890,
+            "ratings": 4.1
+        },
+        {
+            "id": 8,
+            "title": "Luxury Sugar Soap Mogra",
+            "subtitle": " a natural humectant that retains skin moisture",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+            "price": 695,
+            "compare_at_price": 790,
+            "ratings": 4.6
+        },
+        {
+            "id": 9,
+             "title": "Silkening Shower Wash Indian Rose Absolute",
+            "subtitle": "This fresh blend leaves the skin lightly scented",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8987_silkening_shower_wash_indian_rose_absolute_200ml_1.png",
+            "price": 1575,
+            "compare_at_price": 2000,
+            "ratings": 4.3
+        },
+        {
+            "id": 10,
+            "title": "Silkening Shower Wash Iced Pomegranate & Kerala Lime",
+            "subtitle": "With Silkening Shower Wash Iced Pomegranate & Kerala Lime",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8986_shower_wash_pomegranate_lime_200ml_front_copy_2.png",
+            "price": 1575,
+            "compare_at_price": 2000,
+            "ratings": 4.4
+        },
+        {
+            "id": 11,
+            "title": "Silkening Shower Wash Mashobra Honey & Vanilla",
+            "subtitle": "purify and refresh the skin",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8989_shower_wash_honey_vanilla_200ml_front_copy_2.png",
+            "price": 1575,
+            "compare_at_price": 2000,
+            "ratings": 4.5
+        },
+        {
+            "id": 12,
+            "title": "Silkening Shower Wash Oudh & Green Tea",
+            "subtitle": " This fresh, antioxidant rich blend leaves the skin lightly scented with refreshing, musky overtones.",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8990_shower_wash_oudh_green_tea_200ml_front_copy_2.png",
+            "price": 1575,
+            "compare_at_price": 1957,
+            "ratings": 4.6
+        },
+        {
+            "id": 13,
+            "title": "Silkening Shower Wash Soundarya",
+            "subtitle": "This exceptional shower wash contains potent infusions of 24 Karat Gold Bhasma ",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+            "price": 2495,
+            "compare_at_price": 2555,
+            "ratings": 4.4
+        },
+        {
+            "id": 14,
+            "title": "Silkening Shower Wash Nargis",
+            "subtitle": "Sumptuous, Scented, SLS-free",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/5/15601_shower_wash_nargis_200ml_front.png",
+            "price": 1350,
+            "compare_at_price": 1550,
+            "ratings": 4.3
+        },
+        {
+            "id": 15,
+            "title": "Silkening Shower Wash Lime Saffron & Oudh",
+            "subtitle": "Sumptuous, Scented, SLS-free",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21395_silkening_shower_wash_lime_saffron___oudh_200ml_1.png",
+            "price": ,
+            "compare_at_price": ,
+            "ratings": 4.5
+        },
+        {
+            "id": 16,
+           "title": "Body Mist Iced Pomegranate & Kerala Lime",
+            "subtitle": "Hydrates & Scents the Skin",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1082_body_mist_pomegnate_kerala_lime_50ml_front_copy.png",
+            "price": 1350,
+            "compare_at_price": 1490,
+            "ratings": 4.2
+        },
+        {
+            "id": 17,
+            "title": "Body Mist Sandalwood & Vetiver",
+            "subtitle": "Hydrates & Scents the Skin",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+            "price": 1350,
+            "compare_at_price": 1490,
+            "ratings": 4.6
+        },
+        {
+            "id": 18,
+            "title": "Body Mist Oudh & Green Tea",
+            "subtitle": "Hydrates & Scents the Skin",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1093_body_mist_oudh___green_tea_50ml_front_1.png",
+            "price": 1550,
+            "compare_at_price": 1650,
+            "ratings": 4.4
+        },
+        {
+            "id": 19,
+            "title": "Body Mist Nargis",
+            "subtitle": "Hydrates & Scents the Skin",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+            "price": 1450,
+            "compare_at_price": 1550,
+            "ratings": 4.5
+        },
+        {
+            "id": 20,
+            "title": "Silkening Shower Wash Mogra",
+            "subtitle": "refreshes and lightly scents the skin",
+            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22036_silkening_shower_wash_mogra_200ml_1.png",
+            "price": ₹1,650.00 ,
+            "compare_at_price": ₹2,050.00 ,
+            "ratings": 4.3
+        }
+    ]
 }
