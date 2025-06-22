@@ -1,184 +1,664 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "title": "Silkening Shower Wash Mogra",
-            "subtitle": "skin, purified, fresh, and gleaming.",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
-            "price": 1450,
-            "compare_at_price": 1550,
-            "ratings": 4.6
-        },
-        {
-            "id": 2,
-            "title": "Body Mist Honey & Vanilla",
-            "subtitle": "A fresh flower infused body mist ",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
-            "price": 1350  ,
-            "compare_at_price": 1950,
-            "ratings": 4.3
-        },
-        {
-            "id": 3,
-            "title": "Ultra-Rich Body Milk Mogra",
-            "subtitle": "A fragrant body milk that leaves the skin silken and lightly scented.",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
-            "price": 650,
-            "compare_at_price": 900,
-            "ratings": 4.7
-        },
-        {
-            "id": 4,
-            "title": "Radiance Renewal Body Cream Mogra",
-            "subtitle": "A fragrant body cream infused with the delicate fragrance of Mogra. ",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
-            "price": 1875,
-            "compare_at_price": 2050,
-            "ratings": 4.4
-        },
-        {
-            "id": 5,
-            "title": "After Bath Oil Mogra",
-            "subtitle": "hydrate and seal in moisture ",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
-            "price": 825,
-            "compare_at_price": 1235,
-            "ratings": 4.5
-        },
-        {
-            "id": 6,
-            "title": "Sheer Sunscreen Body Spray SPF 50|PA++++",
-            "subtitle": "1st ever Ayurvedic Sun Spray that gives broad-spectrum protection against the sun",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22052_sheer_sunscreen_body_spray_spf50_pa__130ml_1_1.png",
-            "price": 2250,
-            "compare_at_price": 2555,
-            "ratings": 4.2
-        },
-        {
-            "id": 7,
-            "title": "Cooling Body Mist Mogra",
-            "subtitle": "Infused with the refreshing fragrance of Mogra flowers",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
-            "price": 1550,
-            "compare_at_price": 1890,
-            "ratings": 4.1
-        },
-        {
-            "id": 8,
-            "title": "Luxury Sugar Soap Mogra",
-            "subtitle": " a natural humectant that retains skin moisture",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
-            "price": 695,
-            "compare_at_price": 790,
-            "ratings": 4.6
-        },
-        {
-            "id": 9,
-             "title": "Silkening Shower Wash Indian Rose Absolute",
-            "subtitle": "This fresh blend leaves the skin lightly scented",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8987_silkening_shower_wash_indian_rose_absolute_200ml_1.png",
-            "price": 1575,
-            "compare_at_price": 2000,
-            "ratings": 4.3
-        },
-        {
-            "id": 10,
-            "title": "Silkening Shower Wash Iced Pomegranate & Kerala Lime",
-            "subtitle": "With Silkening Shower Wash Iced Pomegranate & Kerala Lime",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8986_shower_wash_pomegranate_lime_200ml_front_copy_2.png",
-            "price": 1575,
-            "compare_at_price": 2000,
-            "ratings": 4.4
-        },
-        {
-            "id": 11,
-            "title": "Silkening Shower Wash Mashobra Honey & Vanilla",
-            "subtitle": "purify and refresh the skin",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8989_shower_wash_honey_vanilla_200ml_front_copy_2.png",
-            "price": 1575,
-            "compare_at_price": 2000,
-            "ratings": 4.5
-        },
-        {
-            "id": 12,
-            "title": "Silkening Shower Wash Oudh & Green Tea",
-            "subtitle": " This fresh, antioxidant rich blend leaves the skin lightly scented with refreshing, musky overtones.",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/9/8990_shower_wash_oudh_green_tea_200ml_front_copy_2.png",
-            "price": 1575,
-            "compare_at_price": 1957,
-            "ratings": 4.6
-        },
-        {
-            "id": 13,
-            "title": "Silkening Shower Wash Soundarya",
-            "subtitle": "This exceptional shower wash contains potent infusions of 24 Karat Gold Bhasma ",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
-            "price": 2495,
-            "compare_at_price": 2555,
-            "ratings": 4.4
-        },
-        {
-            "id": 14,
-            "title": "Silkening Shower Wash Nargis",
-            "subtitle": "Sumptuous, Scented, SLS-free",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/5/15601_shower_wash_nargis_200ml_front.png",
-            "price": 1350,
-            "compare_at_price": 1550,
-            "ratings": 4.3
-        },
-        {
-            "id": 15,
-            "title": "Silkening Shower Wash Lime Saffron & Oudh",
-            "subtitle": "Sumptuous, Scented, SLS-free",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21395_silkening_shower_wash_lime_saffron___oudh_200ml_1.png",
-            "price": 1344,
-            "compare_at_price": 1444,
-            "ratings": 4.5
-        },
-        {
-            "id": 16,
-           "title": "Body Mist Iced Pomegranate & Kerala Lime",
-            "subtitle": "Hydrates & Scents the Skin",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1082_body_mist_pomegnate_kerala_lime_50ml_front_copy.png",
-            "price": 1350,
-            "compare_at_price": 1490,
-            "ratings": 4.2
-        },
-        {
-            "id": 17,
-            "title": "Body Mist Sandalwood & Vetiver",
-            "subtitle": "Hydrates & Scents the Skin",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
-            "price": 1350,
-            "compare_at_price": 1490,
-            "ratings": 4.6
-        },
-        {
-            "id": 18,
-            "title": "Body Mist Oudh & Green Tea",
-            "subtitle": "Hydrates & Scents the Skin",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1093_body_mist_oudh___green_tea_50ml_front_1.png",
-            "price": 1550,
-            "compare_at_price": 1650,
-            "ratings": 4.4
-        },
-        {
-            "id": 19,
-            "title": "Body Mist Nargis",
-            "subtitle": "Hydrates & Scents the Skin",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
-            "price": 1450,
-            "compare_at_price": 1550,
-            "ratings": 4.5
-        },
-        {
-            "id": 20,
-            "title": "Silkening Shower Wash Mogra",
-            "subtitle": "refreshes and lightly scents the skin",
-            "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22036_silkening_shower_wash_mogra_200ml_1.png",
-            "price": 1660 ,
-            "compare_at_price":  1760,
-            "ratings": 4.3
-        }
-    ]
+  "products": [
+    {
+      "title": "Ultra-Rich Body Milk Mogra",
+      "subtitle": "Fragrant body milk leaves the skin silken.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 1,
+      "price": 1972,
+      "compare_at_price": 2353,
+      "ratings": 4.4,
+      "category": "Bath & Body"
+    },
+    {
+      "title": "Ultra-Rich Body Milk Mogra",
+      "subtitle": "Fragrant body milk leaves the skin silken.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 2,
+      "price": 1220,
+      "compare_at_price": 1483,
+      "ratings": 4.7,
+      "category": "Bath & Body"
+    },
+    {
+      "title": "Ultra-Rich Body Milk Mogra",
+      "subtitle": "Fragrant body milk leaves the skin silken.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 3,
+      "price": 1175,
+      "compare_at_price": 1525,
+      "ratings": 4.6,
+      "category": "Bath & Body"
+    },
+    {
+      "title": "Ultra-Rich Body Milk Mogra",
+      "subtitle": "Fragrant body milk leaves the skin silken.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 4,
+      "price": 658,
+      "compare_at_price": 799,
+      "ratings": 4.4,
+      "category": "Bath & Body"
+    },
+    {
+      "title": "Ultra-Rich Body Milk Mogra",
+      "subtitle": "Fragrant body milk leaves the skin silken.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 5,
+      "price": 2106,
+      "compare_at_price": 2564,
+      "ratings": 4.6,
+      "category": "Bath & Body"
+    },
+    {
+      "title": "Ultra-Rich Body Milk Mogra",
+      "subtitle": "Fragrant body milk leaves the skin silken.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 6,
+      "price": 608,
+      "compare_at_price": 806,
+      "ratings": 4.5,
+      "category": "Bath & Body"
+    },
+    {
+      "title": "Body Mist Honey & Vanilla",
+      "subtitle": "Flower infused mist hydrates skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+      "id": 7,
+      "price": 958,
+      "compare_at_price": 1313,
+      "ratings": 4.7,
+      "category": "Fragrance"
+    },
+    {
+      "title": "Body Mist Honey & Vanilla",
+      "subtitle": "Flower infused mist hydrates skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+      "id": 8,
+      "price": 1085,
+      "compare_at_price": 1363,
+      "ratings": 4.5,
+      "category": "Fragrance"
+    },
+    {
+      "title": "Body Mist Honey & Vanilla",
+      "subtitle": "Flower infused mist hydrates skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+      "id": 9,
+      "price": 1801,
+      "compare_at_price": 2277,
+      "ratings": 4.7,
+      "category": "Fragrance"
+    },
+    {
+      "title": "Body Mist Honey & Vanilla",
+      "subtitle": "Flower infused mist hydrates skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+      "id": 10,
+      "price": 2127,
+      "compare_at_price": 2410,
+      "ratings": 4.5,
+      "category": "Fragrance"
+    },
+    {
+      "title": "Body Mist Honey & Vanilla",
+      "subtitle": "Flower infused mist hydrates skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+      "id": 11,
+      "price": 1493,
+      "compare_at_price": 1922,
+      "ratings": 4.4,
+      "category": "Fragrance"
+    },
+    {
+      "title": "Body Mist Honey & Vanilla",
+      "subtitle": "Flower infused mist hydrates skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1083_body_mist_rose_cardamom_50ml_front_copy.png",
+      "id": 12,
+      "price": 2153,
+      "compare_at_price": 2429,
+      "ratings": 4.2,
+      "category": "Fragrance"
+    },
+    {
+      "title": "Body Mist Mogra Travel Mini",
+      "subtitle": "Mini floral mist for travel.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+      "id": 13,
+      "price": 1347,
+      "compare_at_price": 1661,
+      "ratings": 4.5,
+      "category": "Travel Minis"
+    },
+    {
+      "title": "Body Mist Mogra Travel Mini",
+      "subtitle": "Mini floral mist for travel.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+      "id": 14,
+      "price": 1945,
+      "compare_at_price": 2045,
+      "ratings": 4.6,
+      "category": "Travel Minis"
+    },
+    {
+      "title": "Body Mist Mogra Travel Mini",
+      "subtitle": "Mini floral mist for travel.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+      "id": 15,
+      "price": 2022,
+      "compare_at_price": 2513,
+      "ratings": 4.3,
+      "category": "Travel Minis"
+    },
+    {
+      "title": "Body Mist Mogra Travel Mini",
+      "subtitle": "Mini floral mist for travel.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+      "id": 16,
+      "price": 1766,
+      "compare_at_price": 1946,
+      "ratings": 4.3,
+      "category": "Travel Minis"
+    },
+    {
+      "title": "Body Mist Mogra Travel Mini",
+      "subtitle": "Mini floral mist for travel.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+      "id": 17,
+      "price": 2066,
+      "compare_at_price": 2293,
+      "ratings": 4.2,
+      "category": "Travel Minis"
+    },
+    {
+      "title": "Body Mist Mogra Travel Mini",
+      "subtitle": "Mini floral mist for travel.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21522_cooling_body_mist_mogra_50ml_1.png",
+      "id": 18,
+      "price": 1215,
+      "compare_at_price": 1558,
+      "ratings": 4.2,
+      "category": "Travel Minis"
+    },
+    {
+      "title": "Baby Massage Oil",
+      "subtitle": "Gentle Ayurvedic oil for babies.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+      "id": 19,
+      "price": 1312,
+      "compare_at_price": 1493,
+      "ratings": 4.4,
+      "category": "Mom & Baby"
+    },
+    {
+      "title": "Baby Massage Oil",
+      "subtitle": "Gentle Ayurvedic oil for babies.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+      "id": 20,
+      "price": 1429,
+      "compare_at_price": 1715,
+      "ratings": 4.1,
+      "category": "Mom & Baby"
+    },
+    {
+      "title": "Baby Massage Oil",
+      "subtitle": "Gentle Ayurvedic oil for babies.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+      "id": 21,
+      "price": 1868,
+      "compare_at_price": 2346,
+      "ratings": 4.2,
+      "category": "Mom & Baby"
+    },
+    {
+      "title": "Baby Massage Oil",
+      "subtitle": "Gentle Ayurvedic oil for babies.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+      "id": 22,
+      "price": 2171,
+      "compare_at_price": 2467,
+      "ratings": 4.2,
+      "category": "Mom & Baby"
+    },
+    {
+      "title": "Baby Massage Oil",
+      "subtitle": "Gentle Ayurvedic oil for babies.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+      "id": 23,
+      "price": 1790,
+      "compare_at_price": 2225,
+      "ratings": 4.6,
+      "category": "Mom & Baby"
+    },
+    {
+      "title": "Baby Massage Oil",
+      "subtitle": "Gentle Ayurvedic oil for babies.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22030_after_bath_oil_mogra_50ml_1.png",
+      "id": 24,
+      "price": 1826,
+      "compare_at_price": 2008,
+      "ratings": 4.2,
+      "category": "Mom & Baby"
+    },
+    {
+      "title": "Facial Ubtan Narangi & Nagkesar",
+      "subtitle": "For clear and glowing skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 25,
+      "price": 823,
+      "compare_at_price": 1270,
+      "ratings": 4.1,
+      "category": "Face"
+    },
+    {
+      "title": "Facial Ubtan Narangi & Nagkesar",
+      "subtitle": "For clear and glowing skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 26,
+      "price": 2183,
+      "compare_at_price": 2322,
+      "ratings": 4.1,
+      "category": "Face"
+    },
+    {
+      "title": "Facial Ubtan Narangi & Nagkesar",
+      "subtitle": "For clear and glowing skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 27,
+      "price": 1509,
+      "compare_at_price": 1688,
+      "ratings": 4.5,
+      "category": "Face"
+    },
+    {
+      "title": "Facial Ubtan Narangi & Nagkesar",
+      "subtitle": "For clear and glowing skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 28,
+      "price": 1460,
+      "compare_at_price": 1867,
+      "ratings": 4.3,
+      "category": "Face"
+    },
+    {
+      "title": "Facial Ubtan Narangi & Nagkesar",
+      "subtitle": "For clear and glowing skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 29,
+      "price": 654,
+      "compare_at_price": 804,
+      "ratings": 4.4,
+      "category": "Face"
+    },
+    {
+      "title": "Facial Ubtan Narangi & Nagkesar",
+      "subtitle": "For clear and glowing skin.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22035_ultra_rich_body_milk_mogra_50ml_1.png",
+      "id": 30,
+      "price": 1046,
+      "compare_at_price": 1450,
+      "ratings": 4.4,
+      "category": "Face"
+    },
+    {
+      "title": "Hair Cleanser Bhringraj & Shikakai",
+      "subtitle": "For healthy and strong hair.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+      "id": 31,
+      "price": 626,
+      "compare_at_price": 748,
+      "ratings": 4.3,
+      "category": "Hair"
+    },
+    {
+      "title": "Hair Cleanser Bhringraj & Shikakai",
+      "subtitle": "For healthy and strong hair.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+      "id": 32,
+      "price": 2220,
+      "compare_at_price": 2389,
+      "ratings": 4.5,
+      "category": "Hair"
+    },
+    {
+      "title": "Hair Cleanser Bhringraj & Shikakai",
+      "subtitle": "For healthy and strong hair.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+      "id": 33,
+      "price": 694,
+      "compare_at_price": 838,
+      "ratings": 4.6,
+      "category": "Hair"
+    },
+    {
+      "title": "Hair Cleanser Bhringraj & Shikakai",
+      "subtitle": "For healthy and strong hair.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+      "id": 34,
+      "price": 1179,
+      "compare_at_price": 1655,
+      "ratings": 4.4,
+      "category": "Hair"
+    },
+    {
+      "title": "Hair Cleanser Bhringraj & Shikakai",
+      "subtitle": "For healthy and strong hair.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+      "id": 35,
+      "price": 1487,
+      "compare_at_price": 1903,
+      "ratings": 4.5,
+      "category": "Hair"
+    },
+    {
+      "title": "Hair Cleanser Bhringraj & Shikakai",
+      "subtitle": "For healthy and strong hair.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1084_body_mist_sandalwood_vetiver_50ml_front_copy.png",
+      "id": 36,
+      "price": 1902,
+      "compare_at_price": 2399,
+      "ratings": 4.1,
+      "category": "Hair"
+    },
+    {
+      "title": "Tinted Lip Serum Madhu Rasa",
+      "subtitle": "Ayurvedic lip tint with nourishment.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+      "id": 37,
+      "price": 2428,
+      "compare_at_price": 2842,
+      "ratings": 4.5,
+      "category": "Makeup"
+    },
+    {
+      "title": "Tinted Lip Serum Madhu Rasa",
+      "subtitle": "Ayurvedic lip tint with nourishment.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+      "id": 38,
+      "price": 2430,
+      "compare_at_price": 2565,
+      "ratings": 4.6,
+      "category": "Makeup"
+    },
+    {
+      "title": "Tinted Lip Serum Madhu Rasa",
+      "subtitle": "Ayurvedic lip tint with nourishment.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+      "id": 39,
+      "price": 1690,
+      "compare_at_price": 1978,
+      "ratings": 4.5,
+      "category": "Makeup"
+    },
+    {
+      "title": "Tinted Lip Serum Madhu Rasa",
+      "subtitle": "Ayurvedic lip tint with nourishment.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+      "id": 40,
+      "price": 2239,
+      "compare_at_price": 2442,
+      "ratings": 4.2,
+      "category": "Makeup"
+    },
+    {
+      "title": "Tinted Lip Serum Madhu Rasa",
+      "subtitle": "Ayurvedic lip tint with nourishment.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+      "id": 41,
+      "price": 2347,
+      "compare_at_price": 2454,
+      "ratings": 4.5,
+      "category": "Makeup"
+    },
+    {
+      "title": "Tinted Lip Serum Madhu Rasa",
+      "subtitle": "Ayurvedic lip tint with nourishment.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/1/0/1094_body_mist_nargis_50ml_front_1_1.png",
+      "id": 42,
+      "price": 2130,
+      "compare_at_price": 2548,
+      "ratings": 4.1,
+      "category": "Makeup"
+    },
+    {
+      "title": "Gift Box: Body Care Ritual",
+      "subtitle": "Elegant gift box with essentials.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+      "id": 43,
+      "price": 523,
+      "compare_at_price": 761,
+      "ratings": 4.2,
+      "category": "Gifting"
+    },
+    {
+      "title": "Gift Box: Body Care Ritual",
+      "subtitle": "Elegant gift box with essentials.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+      "id": 44,
+      "price": 668,
+      "compare_at_price": 769,
+      "ratings": 4.4,
+      "category": "Gifting"
+    },
+    {
+      "title": "Gift Box: Body Care Ritual",
+      "subtitle": "Elegant gift box with essentials.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+      "id": 45,
+      "price": 1536,
+      "compare_at_price": 1760,
+      "ratings": 4.4,
+      "category": "Gifting"
+    },
+    {
+      "title": "Gift Box: Body Care Ritual",
+      "subtitle": "Elegant gift box with essentials.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+      "id": 46,
+      "price": 1701,
+      "compare_at_price": 1913,
+      "ratings": 4.4,
+      "category": "Gifting"
+    },
+    {
+      "title": "Gift Box: Body Care Ritual",
+      "subtitle": "Elegant gift box with essentials.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+      "id": 47,
+      "price": 551,
+      "compare_at_price": 919,
+      "ratings": 4.2,
+      "category": "Gifting"
+    },
+    {
+      "title": "Gift Box: Body Care Ritual",
+      "subtitle": "Elegant gift box with essentials.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/9/7/9701_shower_wash_soundarya_200ml_front_copy_2.png",
+      "id": 48,
+      "price": 1862,
+      "compare_at_price": 2044,
+      "ratings": 4.3,
+      "category": "Gifting"
+    },
+    {
+      "title": "Facial Cleanser Sandalwood & Orange Peel",
+      "subtitle": "Invigorating cleanser for men.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "id": 49,
+      "price": 1033,
+      "compare_at_price": 1482,
+      "ratings": 4.3,
+      "category": "Men"
+    },
+    {
+      "title": "Facial Cleanser Sandalwood & Orange Peel",
+      "subtitle": "Invigorating cleanser for men.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "id": 50,
+      "price": 1197,
+      "compare_at_price": 1486,
+      "ratings": 4.2,
+      "category": "Men"
+    },
+    {
+      "title": "Facial Cleanser Sandalwood & Orange Peel",
+      "subtitle": "Invigorating cleanser for men.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "id": 51,
+      "price": 2194,
+      "compare_at_price": 2599,
+      "ratings": 4.3,
+      "category": "Men"
+    },
+    {
+      "title": "Facial Cleanser Sandalwood & Orange Peel",
+      "subtitle": "Invigorating cleanser for men.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "id": 52,
+      "price": 2150,
+      "compare_at_price": 2538,
+      "ratings": 4.6,
+      "category": "Men"
+    },
+    {
+      "title": "Facial Cleanser Sandalwood & Orange Peel",
+      "subtitle": "Invigorating cleanser for men.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "id": 53,
+      "price": 1242,
+      "compare_at_price": 1648,
+      "ratings": 4.3,
+      "category": "Men"
+    },
+    {
+      "title": "Facial Cleanser Sandalwood & Orange Peel",
+      "subtitle": "Invigorating cleanser for men.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22037n_silkening_shower_wash_mogra_50ml_1_1.png",
+      "id": 54,
+      "price": 1344,
+      "compare_at_price": 1484,
+      "ratings": 4.2,
+      "category": "Men"
+    },
+    {
+      "title": "Triphala Tablets",
+      "subtitle": "Detoxifying Ayurvedic supplement.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+      "id": 55,
+      "price": 1580,
+      "compare_at_price": 2061,
+      "ratings": 4.5,
+      "category": "Wellness"
+    },
+    {
+      "title": "Triphala Tablets",
+      "subtitle": "Detoxifying Ayurvedic supplement.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+      "id": 56,
+      "price": 2035,
+      "compare_at_price": 2135,
+      "ratings": 4.4,
+      "category": "Wellness"
+    },
+    {
+      "title": "Triphala Tablets",
+      "subtitle": "Detoxifying Ayurvedic supplement.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+      "id": 57,
+      "price": 1862,
+      "compare_at_price": 1997,
+      "ratings": 4.2,
+      "category": "Wellness"
+    },
+    {
+      "title": "Triphala Tablets",
+      "subtitle": "Detoxifying Ayurvedic supplement.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+      "id": 58,
+      "price": 1678,
+      "compare_at_price": 2025,
+      "ratings": 4.3,
+      "category": "Wellness"
+    },
+    {
+      "title": "Triphala Tablets",
+      "subtitle": "Detoxifying Ayurvedic supplement.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+      "id": 59,
+      "price": 1524,
+      "compare_at_price": 1867,
+      "ratings": 4.3,
+      "category": "Wellness"
+    },
+    {
+      "title": "Triphala Tablets",
+      "subtitle": "Detoxifying Ayurvedic supplement.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/1/21520_luxury_sugar_soap_mogra_100g_1.png",
+      "id": 60,
+      "price": 672,
+      "compare_at_price": 823,
+      "ratings": 4.6,
+      "category": "Wellness"
+    },
+    {
+      "title": "Soundarya Advanced Serum",
+      "subtitle": "24K gold infused facial serum.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+      "id": 61,
+      "price": 631,
+      "compare_at_price": 878,
+      "ratings": 4.2,
+      "category": "Exclusives"
+    },
+    {
+      "title": "Soundarya Advanced Serum",
+      "subtitle": "24K gold infused facial serum.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+      "id": 62,
+      "price": 1706,
+      "compare_at_price": 2202,
+      "ratings": 4.4,
+      "category": "Exclusives"
+    },
+    {
+      "title": "Soundarya Advanced Serum",
+      "subtitle": "24K gold infused facial serum.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+      "id": 63,
+      "price": 981,
+      "compare_at_price": 1440,
+      "ratings": 4.2,
+      "category": "Exclusives"
+    },
+    {
+      "title": "Soundarya Advanced Serum",
+      "subtitle": "24K gold infused facial serum.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+      "id": 64,
+      "price": 1182,
+      "compare_at_price": 1335,
+      "ratings": 4.4,
+      "category": "Exclusives"
+    },
+    {
+      "title": "Soundarya Advanced Serum",
+      "subtitle": "24K gold infused facial serum.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+      "id": 65,
+      "price": 2374,
+      "compare_at_price": 2571,
+      "ratings": 4.5,
+      "category": "Exclusives"
+    },
+    {
+      "title": "Soundarya Advanced Serum",
+      "subtitle": "24K gold infused facial serum.",
+      "image": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/2/2/22031_radiance_renewal_body_cream_mogra_100g_1.png",
+      "id": 66,
+      "price": 1077,
+      "compare_at_price": 1514,
+      "ratings": 4.1,
+      "category": "Exclusives"
+    }
+  ]
 }
